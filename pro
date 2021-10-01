@@ -1,2 +1,2 @@
 hieght 6
-weight4
+weight 6
